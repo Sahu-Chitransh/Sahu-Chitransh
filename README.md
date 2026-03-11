@@ -85,7 +85,7 @@
   <a href="https://www.linkedin.com/in/chitransh-sahu-54b18a282/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://v0-chitransh.vercel.app/" target="_blank">
+  <a href="[https://portfolio-gold-five-lp1yrgoe4i.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
