@@ -9,10 +9,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **True-Lens (Cybersecurity + AI)**, building an **ADAS**, and launching my mobile skin startup.
+- 🔭 I’m currently working on **True-Lens (Cybersecurity + AI)**, building an **ADAS**.
 - 🌱 I’m actively learning and exploring **Penetration Testing**, **Machine Learning (Agents/LLMs)**, and advanced **Databases (SQL/NoSQL)**.
 - 👯 I’m looking to collaborate on **AI/ML**, **Web Application Security**, and **Robotics (ROS) navigation** projects.
-- 💬 Ask me about **winning SIH'25 with KrishiBandhu**, **Python data science libraries (NumPy, Pandas)**, or **hardware repair**.
 - ⚡ Fun fact: *Whether it's writing complex machine learning models or removing a stripped screw from a laptop motherboard, I love tearing things apart to see how they work!*
 
 ---
