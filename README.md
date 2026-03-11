@@ -18,18 +18,18 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sahu-Chitransh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophy" />
 </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&langs_count=8" alt="Top Langs" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahu-Chitransh&layout=compact&theme=tokyonight&langs_count=8" alt="Top Langs" />
 
 </p>
 
 ---
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Chitransh's GitHub stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sahu-Chitransh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Chitransh's GitHub stats" width="48%"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&cache_seconds=600" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahu-Chitransh&theme=tokyonight&cache_seconds=600" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahu-Chitransh&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 </p>
 
@@ -83,10 +83,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=Let's%20Connect!&fontSize=30&fontAlignY=35&animation=twinkling&fontColor=ffffff&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29"/>
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/chitransh-sahu-54b18a282/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+  <a href="https://v0-chitransh.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
